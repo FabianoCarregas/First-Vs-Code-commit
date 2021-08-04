@@ -58,15 +58,21 @@ header nav a:hover{
 }
 .main-movie .description{
     margin-bottom: 40px;
-    margin-top: 50px;
+    margin-top: 5px;
+    
 
 }
 
 .title{
+    
     margin-top: 15%;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
 
+}
+.buttons{
+    margin-top: 40px;
+    
 }
 
 .button{
@@ -88,8 +94,23 @@ header nav a:hover{
 
 
 }    
+.button i{
+    margin-right: 8px;
+}
+
+.container{
+     margin-left: 15px;
+}
+
+.main-movie .container{
+    width: 50%;
+}
+
+.box-movie{
+    height: 100%;
+    width: 100%;
+    display: block;
 
 
-
-
+}
 
